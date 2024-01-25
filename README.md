@@ -51,30 +51,18 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
   
   - How many months exist on Mars?
     
-        There are 12 months on Mars
-  
   - How many Martian (and not Earth) days worth of data exist in the scraped dataset?
-
-        There are 1867 days worth of data.
   
   What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
   
   - Find the average minimum daily temperature for all of the months.
 
-        <img width="146" alt="Screenshot 2024-01-24 at 10 32 40 PM" src="https://github.com/Nalchamp/web-scraping-challenge/assets/145158606/675dea6d-5062-43f9-aa7e-a4e7903d6685">
-
-  
   - Plot the results as a bar chart.
-
-        <img width="591" alt="Screenshot 2024-01-24 at 10 37 06 PM" src="https://github.com/Nalchamp/web-scraping-challenge/assets/145158606/46b7fddf-f75c-4802-9c21-bb69c787c254">
-
-
   
   Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
   
   - Find the average daily atmospheric pressure of all the months.
         
-  
   - Plot the results as a bar chart.
   
   About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
