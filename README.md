@@ -49,21 +49,21 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
   
   Analyze your dataset by using Pandas functions to answer the following questions:
   
-  -How many months exist on Mars?
+  - How many months exist on Mars?
   
-  -How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+  - How many Martian (and not Earth) days worth of data exist in the scraped dataset?
   
   What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
   
-  -Find the average minimum daily temperature for all of the months.
+  - Find the average minimum daily temperature for all of the months.
   
-  -Plot the results as a bar chart.
+  - Plot the results as a bar chart.
   
   Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
   
-  -Find the average daily atmospheric pressure of all the months.
+  - Find the average daily atmospheric pressure of all the months.
   
-  -Plot the results as a bar chart.
+  - Plot the results as a bar chart.
   
   About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
   
